@@ -1364,5 +1364,16 @@
     "status": "failed",
     "created_at": "2026-08-22T09:50:37.590Z",
     "completed_at": "2026-08-22T09:51:11.196Z"
+  },
+  "mt47kqyvhqvss": {
+    "job_id": "mt47kqyvhqvss",
+    "release_id": 374893677,
+    "release_tag": "build-mt47kqyvhqvss",
+    "run_id": 32566516992,
+    "user_id": 8222452410,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-22T10:01:36.488Z"
   }
 }
