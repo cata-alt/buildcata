@@ -838,5 +838,12 @@
     "amount": 1,
     "reason": "Build Flutter (ZIP)",
     "at": "2026-08-22T12:34:20.941Z"
+  },
+  {
+    "userId": 7775621384,
+    "type": "earn",
+    "amount": 100,
+    "reason": "Diberikan owner",
+    "at": "2026-08-22T13:43:57.752Z"
   }
 ]
